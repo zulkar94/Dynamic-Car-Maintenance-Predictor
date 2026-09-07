@@ -1,0 +1,20 @@
+{
+  "name": "maintenance-risk-console",
+  "version": "1.0.0",
+  "description": "Predictive vehicle maintenance-risk dashboard: mileage, service history, fuel economy, and diagnostic data combine into a live risk score.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve . -l 3000",
+    "start": "serve . -l 3000"
+  },
+  "keywords": [
+    "predictive-maintenance",
+    "dashboard",
+    "automotive",
+    "vanilla-js"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
